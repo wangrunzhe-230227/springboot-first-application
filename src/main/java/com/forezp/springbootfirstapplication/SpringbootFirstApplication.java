@@ -25,6 +25,7 @@ public class SpringbootFirstApplication {
             Arrays.sort(beanNames);
             for (String beanName : beanNames) {
                 System.out.println(beanName);
+                System.out.println("我是汪润哲，今天是2019-11-15");
             }
         };
     }
